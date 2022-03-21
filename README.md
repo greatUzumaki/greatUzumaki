@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I go to the gym or read tech articles.
 - 📫 How to reach me:  </a>
-    <a href="your-twitter-URL">
+    <a href="https://t.me/apargachev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> or pargachev20@gmail.com
 
